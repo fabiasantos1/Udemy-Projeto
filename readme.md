@@ -18,7 +18,7 @@ Projeto responsivo desenvolvido pelo curso na Udemy.
 <br>
 
 <p align="center">
-  <img alt="Udemy Projeto" src="./img/techs/readme.png" width="100%">
+  <img alt="Udemy Projeto" src=".github/readme.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
